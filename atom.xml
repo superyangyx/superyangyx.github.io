@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://superyangyx.github.io</id>
     <title>superyangyx&apos;s blog</title>
-    <updated>2022-04-23T10:47:46.437Z</updated>
+    <updated>2022-04-23T11:00:44.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://superyangyx.github.io"/>
     <link rel="self" href="https://superyangyx.github.io/atom.xml"/>
@@ -11,55 +11,97 @@
     <icon>https://superyangyx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, superyangyx&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[“希望少年”计算思维与创意编程挑战活动 游记]]></title>
-        <id>https://superyangyx.github.io/post/xiwangbei-youji/</id>
-        <link href="https://superyangyx.github.io/post/xiwangbei-youji/">
+        <title type="html"><![CDATA[洛谷 | 全世界最大的青少年情感交流中心]]></title>
+        <id>https://superyangyx.github.io/post/luo-gu-or-quan-shi-jie-zui-da-de-qing-shao-nian-qing-gan-jiao-liu-zhong-xin/</id>
+        <link href="https://superyangyx.github.io/post/luo-gu-or-quan-shi-jie-zui-da-de-qing-shao-nian-qing-gan-jiao-liu-zhong-xin/">
         </link>
-        <updated>2022-04-23T10:29:18.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="day-2">Day -2</h2>
-<p><s>这比赛名真长</s></p>
-<p>据说是这比赛的模拟赛的最后一天，那肯定要去玩玩，顺便熟悉一下系统。</p>
-<p>下完客户端，发现要开摄像头和麦克风，还要全程录像，甚至还要开个手机在侧后方监控。</p>
-<p>？？？</p>
-<p>好吧，来都来了，就按照规则做吧。</p>
-<p>可是我电脑摄像头坏了，显示一张巨大的 obs 图标，居然还能通过，离谱。</p>
-<p>登录进去后，发现直接给你锁屏了，tnnd</p>
-<p>我想退出，可是按什么键都不管用，直到我在正式比赛时看到右下角的“技术支持”，发现要按 Ctrl+Alt+Delete。</p>
-<p>可是当时我没发现啊，只能登进去之后直接交卷，喜提 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>0</mn></mrow><annotation encoding="application/x-tex">0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span> 分好成绩。</p>
-<p>进去看了看题，没啥意思，就直接退了。题目类型大概是 CSP 初赛的感觉，可是我做这种题真的是浑身难受。</p>
-<h2 id="day-1">Day -1</h2>
-<p>无事发生。</p>
-<h2 id="day-0">Day 0</h2>
-<p>昨天学校发回来一张通知，标题是“AI+生命科学探索人才培养项目招生”。</p>
-<p>WTF？</p>
-<p>看起来和信竞没啥关系，但我还是抱着玩玩的心态报了名。</p>
-<p>去学校，发现班上也有不少人报了名，还有三四个女生<s>虽然她们基本都是冲着生命科学去的</s>。</p>
-<p>不知道能不能过审。</p>
-<p>晚上打了 CF，rating 升了 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>256</mn></mrow><annotation encoding="application/x-tex">256</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span><span class="mord">5</span><span class="mord">6</span></span></span></span>，这是好的。</p>
-<h2 id="day-1-2">Day 1</h2>
-<p>早上起晚了，所以比较仓促，因为摄像头坏了所以还要换台电脑，客户端什么的还要重新下，所以导致我登进去之后只剩 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 分钟就要开始了。</p>
-<p>比赛开始，一共 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>30</mn></mrow><annotation encoding="application/x-tex">30</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mord">0</span></span></span></span> 道题，全都是填选，这不就是 CSP 初赛吗？？？</p>
-<p>题面全都没有用 markdown 和 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord text"><span class="mord textrm sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord text"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span>（包括下午的题目），甚至代码用的都是非等宽字体。</p>
-<p>题目有一大半都是牛逼题，甚至还有题意表述不清的，离谱。</p>
-<p>总之上午的题做的我很不爽，而且中途不允许上厕所，这直接导致我提前半小时交卷。</p>
-<p>下午是敲代码题。但是由于我手贱把客户端全卸载了导致比上午更仓促。</p>
-<p>开 T1，简单签到题，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>3</mn></mrow><annotation encoding="application/x-tex">3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span> 分钟写完代码。</p>
-<p>后来想想我的代码应该是过于冗长了，本来 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 行就可以解决我愣是多开了 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> 个变量，写了近 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>10</mn></mrow><annotation encoding="application/x-tex">10</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span></span></span></span> 行。</p>
-<p>开 T2，首先要判断 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> 个数是不是质数，本来想打质数筛，看看数据范围，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn><mo>≤</mo><mi>n</mi><mo separator="true">,</mo><mi>m</mi><mo>≤</mo><mn>1000</mn></mrow><annotation encoding="application/x-tex">1\le n,m \le 1000</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.78041em;vertical-align:-0.13597em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8304100000000001em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">n</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">m</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span><span class="mord">0</span></span></span></span>，发现根本没必要，朴素 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>O</mi><mo>(</mo><msqrt><mi>n</mi></msqrt><mo>)</mo></mrow><annotation encoding="application/x-tex">O(\sqrt n)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.05028em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8002800000000001em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mathdefault" style="padding-left:0.833em;">n</span></span><span style="top:-2.76028em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,
--10,-9.5,-14c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54c44.2,-33.3,65.8,
--50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10s173,378,173,378c0.7,0,
-35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429c69,-144,104.5,-217.7,106.5,
--221c5.3,-9.3,12,-14,20,-14H400000v40H845.2724s-225.272,467,-225.272,467
-s-235,486,-235,486c-2.7,4.7,-9,7,-19,7c-6,0,-10,-1,-12,-3s-194,-422,-194,-422
-s-65,47,-65,47z M834 80H400000v40H845z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.23972em;"><span></span></span></span></span></span><span class="mclose">)</span></span></span></span> 算法判断即可。</p>
-<p>然后直接 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>O</mi><mo>(</mo><mi>n</mi><mi>m</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">O(nm)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord mathdefault">n</span><span class="mord mathdefault">m</span><span class="mclose">)</span></span></span></span> 暴力就能过（虽然好像没有更优的方法）。</p>
-<p>开 T3，字符串，出题人我谢谢你</p>
-<p>题意就是让你找子串。但是数据范围很不清楚，没有部分分，而且只有一句话 “ <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn><mo>≤</mo></mrow><annotation encoding="application/x-tex">1 \le</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.78041em;vertical-align:-0.13597em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span></span></span></span> 总长度 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>≤</mo><mn>1</mn><msup><mn>0</mn><mn>6</mn></msup></mrow><annotation encoding="application/x-tex">\le 10^6</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">6</span></span></span></span></span></span></span></span></span></span></span> ”，这怎么搞啊，直接暴力得了。</p>
-<p>写完发现还要去重，估计要用 <code>set</code>。但是我忘了怎么用类似于 <code>for(int i=1;i&lt;=n;i++)</code> 之类的方法遍历 <code>set</code>，幸亏编译器支持 C++17，用 <code>for(auto s:e)</code> 惊险水过。</p>
-<p>开 T4，这啥玩意啊，完全不会，幸亏有 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>30</mn><mi mathvariant="normal">%</mi></mrow><annotation encoding="application/x-tex">30\%</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.80556em;vertical-align:-0.05556em;"></span><span class="mord">3</span><span class="mord">0</span><span class="mord">%</span></span></span></span> 部分分，打完 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>O</mi><mo>(</mo><msup><mi>n</mi><mn>3</mn></msup><mo>)</mo></mrow><annotation encoding="application/x-tex">O(n^3)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord"><span class="mord mathdefault">n</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span> 暴力走人。</p>
-<p>开 T5，一眼看过去感觉像是 <a href="https://www.luogu.com.cn/problem/P7911" title="CSP-J 2021 T3">CSP-J 2021 T3</a> 那样的模拟题。发现自己完全不会，尝试骗分。</p>
-<p>骗完分回来检查，发现 T2 忘了特判 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 不是质数，差点挂分。</p>
-<p>初步估分 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>100</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>30</mn><mo>+</mo><mn>0</mn><mo>=</mo><mn>330</mn></mrow><annotation encoding="application/x-tex">100+100+100+30+0=330</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">3</span><span class="mord">0</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span><span class="mord">3</span><span class="mord">0</span></span></span></span> 分，希望不要挂分。</p>
+        <updated>2022-04-23T10:55:53.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="洛谷-全世界最大的青少年情感交流中心">洛谷 | 全世界最大的青少年情感交流中心</h1>
+<h2 id="idea来源stuempire神仙">idea来源：@<a href="https://www.luogu.com.cn/user/305002">StuEmpire</a>神仙</h2>
+<h2 id="首先认识到恋爱对oier的重要性大雾k总说过">首先认识到恋爱对OIer的重要性（大雾）：k总说过：【】。</h2>
+<h2 id="这个感觉也很有道理戳">这个感觉也很有道理：<a href="https://www.cnblogs.com/lnzwz/p/14382308.html">戳</a></h2>
+<h3 id="然而也有金钩爷反对恋爱">然而也有<a href="https://djy-juruo.blog.luogu.org/bo-lun-oier-tan-lian-ai-di-bi-yao-xing-post">金钩爷反对恋爱</a></h3>
+<h2 id="来自被独宠的教徒的超甜文案-关注她不错过精彩">来自@<a href="https://www.luogu.com.cn/user/374012">被独宠的教徒</a>的<a href="https://www.luogu.com.cn/blog/Meckenna/post-wo-zhei-suo-ri-zi-yi-lai-ji-zan-di-wen-an-post">超甜文案！</a>。关注她，不错过精彩！</h2>
+<h2 id="以后最新的帖子会放到最上面">以后最新的帖子会放到最上面</h2>
+<h3 id="怎么和npy过520保存站现存浏览量第一的神帖"><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/317364">怎么和npy过520（保存站现存浏览量第一的神帖！！）</a></h3>
+<p><a href="http://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/409303">有文采的表白</a></p>
+<p><a href="http://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/408876">有文采的阐述恋爱的好处</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/402226">谁是你谷最知名人win</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/402451">你们发帖要节制……</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/326187">洛谷用户和kkk击剑！速来！</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/381660">琢喵的诉说</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/401544">和优秀的女孩做同位，享受着流言蜚语（</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/356024">有人不懂啥是人win<img src="//xn--wcs.tk/5" alt="" loading="lazy"></a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/355992">求问表白，并最终成为人win！快来烧了！<img src="//xn--wcs.tk/0" alt="" loading="lazy"></a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/355982">惹着喜欢的妹子了该咋办？<img src="//xn--wcs.tk/r" alt="" loading="lazy"></a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/352564">《关于恋爱》</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/352829">《关于恋爱2》</a></p>
+<p><a href="https://www.luogu.com.cn/discuss/351462">你女朋友跟男闺玩咋办</a></p>
+<p><a href="https://www.luogu.com.cn/discuss/351163">如何合理地加喜欢的人的qq</a></p>
+<p><a href="https://www.luogu.com.cn/discuss/351086">报复还是吃醋？<img src="//xn--wcs.tk/r" alt="" loading="lazy"></a></p>
+<p><a href="https://www.luogu.com.cn/discuss/350871">全机房唯一的loser发问<img src="//xn--wcs.tk/8" alt="" loading="lazy"></a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/350696">机房 OIER 表白同机房 OIER，双烧！</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/356120">仿考古诗·谷甚论感情</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/360134">同学有npy怎么办</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/360139">丁达尔效应</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361593">倒追……</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361676">溜入别的机房找心上人</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361853">当你的同学不承认在撒狗粮</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361862">当你和你的青梅竹马被磕</a></p>
+<p><a href="https://www.luogu.com.cn/discuss/357767">《规划人生》</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361917">loser四问</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361970">我左边，是@lgj2021，他喜欢hrq</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/361971">欢迎各位线下来冲</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/362009">没用的情感问题集合帖</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/362090">网友奔现<img src="//xn--wcs.tk/p" alt="" loading="lazy"></a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/362375">奔现发现不好看</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/362721">当你和你爱的青梅竹马分别</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/363486">人win钓鱼</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/363494">很正经的咨询帖-&gt;npy可以调整及好你的心态</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/363535">无人倾诉？那就成为win吧！<img src="//xn--wcs.tk/6" alt="" loading="lazy"></a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/364183">关于你谷的小情侣</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/364598">一见钟情</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/364714">要妹子or要OI？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/365405">当一对CP上课打扰你的学习</a></p>
+<p><a href="https://www.luogu.com.cn/discuss/366564">学长的犹豫导致学弟捷足先登！<img src="//xn--wcs.tk/5" alt="" loading="lazy"></a></p>
+<p><a href="https://www.luogu.com.cn/discuss/366815?page=1">和npy确认关系算是生日礼物吗？-&gt;大量人win炫耀场所</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/368613">一个男的被当成是女的从而被男的看上<img src="//xn--wcs.tk/1" alt="" loading="lazy"></a></p>
+<p><a href="https://www.luogu.com.cn/discuss/369757">OIer need girlfriend</a></p>
+<p><a href="https://www.luogu.com.cn/discuss/351165">HS求助男男</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/374701">男生说不喜欢你还送你千纸鹤是什么鬼？男生不喜欢你你往他身上蹭他不应该直接推开吗？男生不喜欢你你跟他借外套他为什么要同意？如果男生因为一个女生“身败名裂”，首先那个男生有没有跟别人解释我不知道，但是他应该找去把那个女生骂一顿吧然后断绝关系什么的.如果我作死换上了他情头另一半会不会被他全网封杀？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/375770">npy生日送啥？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/375803">初二男生看上初一学妹！</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/376955">如何甩掉喜欢你，但是你不喜欢的女孩</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/377038">当你被传绯闻</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/377092">婉拒漂亮妹子 or 凡尔赛？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/377096">情感四问</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/377276">俩学霸互有好感</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/377635">恋爱心理学代师</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/377954">人win吃醋</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/378074">机惨·人类高质量男性求偶</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/378679">如何向喜欢的妹子表白</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379044">每次说话脸部发热，是不是喜欢上了！</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379063">如何安慰考试失利的npy</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379097">我们按性别分类讨论一个人说另一个人可爱</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379181">如何面对人赢秀恩爱？（其一）</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379169">如何面对人赢秀恩爱？（其二）</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379312">直球表白</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379579">如何解救被赶回家的人赢同学？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379681">当你被人赢嘲讽</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379766">和女朋友吵架了咋办</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/379848">如何增进与喜欢女生的关系</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/380341">如何拥有多个npy（编者注：问灵华去！）</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/380395">那个女孩到底是不是在看你？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/380511">当你喜欢的人换位换到你旁边</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/381537">如何避免吃到狗粮</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/381558">更有文采的表白</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/381568">有妹子有助于你赛前调整心态</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/381801">当你在酒店碰到漂亮的学OI的妹子</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/384291">想谈恋爱怎么办</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/387944?page=1">喜欢的女孩圣诞节生日，送点啥？</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/388083">上帖后续</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/388129">喜欢的女孩被和别人传绯闻咋办</a></p>
+<p><a href="https://luogulo.gq/show.php?url=https://www.luogu.com.cn/discuss/388537?page=2">表白失败，不要灰心绝望！</a></p>
 ]]></content>
     </entry>
 </feed>
