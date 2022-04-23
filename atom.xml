@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://superyangyx.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-23T10:30:54.754Z</updated>
+    <title>superyangyx&apos;s blog</title>
+    <updated>2022-04-23T10:32:19.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://superyangyx.github.io"/>
     <link rel="self" href="https://superyangyx.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Zzz Zzz</subtitle>
     <logo>https://superyangyx.github.io/images/avatar.png</logo>
     <icon>https://superyangyx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, superyangyx&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[“希望少年”计算思维与创意编程挑战活动 游记]]></title>
         <id>https://superyangyx.github.io/post/xi-wang-shao-nian-ji-suan-si-wei-yu-chuang-yi-bian-cheng-tiao-zhan-huo-dong-you-ji/</id>
